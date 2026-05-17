@@ -291,6 +291,4 @@ Built for the modern data landscape — not just SQL and Excel, but **AI-powered
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sahastraWin&color=F2C811&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
